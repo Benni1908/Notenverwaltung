@@ -1,0 +1,40 @@
+INFO:__main__:Created Employee: John Smith - John.Smith@email.com
+INFO:__main__:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:__main__:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee:Created Employee: John Smith - John.Smith@email.com
+INFO:employee:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee:Created Employee: John Smith - John.Smith@email.com
+INFO:employee:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee:Created Employee: John Smith - John.Smith@email.com
+INFO:employee:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee:Created Employee: John Smith - John.Smith@email.com
+INFO:employee:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee:Created Employee: John Smith - John.Smith@email.com
+INFO:employee:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee:Created Employee: John Smith - John.Smith@email.com
+INFO:employee:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee:Created Employee: John Smith - John.Smith@email.com
+INFO:employee:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee:Created Employee: John Smith - John.Smith@email.com
+INFO:employee:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee:Created Employee: John Smith - John.Smith@email.com
+INFO:employee:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee:Created Employee: Jane Doe - Jane.Doe@email.com
+2018-10-07 16:58:46,361:__main__:Add: 10 + 5 = 15
+2018-10-07 16:58:46,361:__main__:Sub: 10 - 5 = 5
+2018-10-07 16:58:46,361:__main__:Mul: 10 * 5 = 50
+2018-10-07 16:58:46,361:__main__:Div: 10 / 5 = 2
+INFO:employee:Created Employee: John Smith - John.Smith@email.com
+INFO:employee:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:employee:Created Employee: John Smith - John.Smith@email.com
+INFO:employee:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:employee:Created Employee: Jane Doe - Jane.Doe@email.com
